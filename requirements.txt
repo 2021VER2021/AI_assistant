@@ -1,0 +1,8 @@
+python-telegram-bot>=21.10
+sqlalchemy>=2.0.37
+aiohttp>=3.11.11
+langchain>=0.3.17
+sentence-transformers>=3.4.1
+pypdf2>=3.0.1
+duckduckgo-search>=7.3.0
+numpy>=1.26.4
